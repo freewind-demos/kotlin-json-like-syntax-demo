@@ -1,4 +1,11 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Json Like Syntax Demo
+============================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+How to define classes and methods to make the invocation seems like json format:
+
+```
+hello {
+  name = "Kotlin"
+  words = "welcome"
+}
+```
